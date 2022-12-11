@@ -6,6 +6,11 @@ The original code is (mostly) copied from [github.com/Nimrod-Galor/eye-animatron
 We decided to put the eyes in a box behind a picture of Mark Zuckerberg. This way it looks like he's always watching you (as his eyes will follow you when you walk past him).
 
 ![Front image](/images/front.jpg)
+![Back image](/images/back.jpg)
+<details>
+	<summary>Click to view the demo!</summary>
+	![Demo Video](/images/demo.mp4)
+</details>
 
 # Material list
 * The 3d printed files (see below)
@@ -26,10 +31,10 @@ We've combined two thingiverse projects, [Doorman with eye holder & eyeball impr
 
 The eyes in the first design have a better connection with the frame (u-joint vs ball-joint). However, that design doesn't include the eyelid. The eyelid from the second design is compatible with the first design, so we just took it from there.
 
-All files we used can be found in the `3d-files` directory. Remember that you need 2 eyeballs, 2 eyelids and 2 u-joints if you want to build this yourself.
+All files we used can be found in the `3d-files` directory. Remember that you need 2 eyeballs, 2 eyelids (you should scale them up a bit yourself) and 2 u-joints if you want to build this yourself.
 
 # Laser cut files
-We've laser cut the `box.svg` and `front_box.svg`. The dimensions of the box are the following: height: 47cm, width: 36cm.
+We've laser cut the `box.svg` and `front_box.svg` from the `laser-files` directory. The dimensions of the box are the following: height: 47cm, width: 36cm.
 
 The foam board we orded online with the dimensions of 34cm x 43cm and the file `zuck.webp` printed on it.
 
